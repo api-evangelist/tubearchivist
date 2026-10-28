@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tube Archivist is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tubearchivist.com/
+Tube Archivist provides a self‑hosted YouTube media server that lets you subscribe to channels, download, index, search and play videos offline via a web interface. It includes a companion browser extension for one‑click archiving and integrates with Docker for easy deployment.
+
+**Areas:** Company · Self-Hosted · YouTube · Media Server · Open Source
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tubearchivist.com/)
+- [Documentation](https://github.com/tubearchivist/tubearchivist)
+- [Getting started](https://github.com/tubearchivist/tubearchivist#readme)
+- [Changelog](https://github.com/tubearchivist/tubearchivist/releases)
+
+**APIs profiled:** 15
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tubearchivist/](https://apis.io/providers/tubearchivist/).
